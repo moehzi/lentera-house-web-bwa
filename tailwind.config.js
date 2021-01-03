@@ -7,7 +7,8 @@ module.exports = {
 		'secondary':'#8080FF',
 		'black':'#000000',
 		gray:{
-			light:'#999999'
+			light:'#999999',
+			exlight:'#F7F7F9'
 		}
 	},
 	fontFamily: {
